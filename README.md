@@ -11,7 +11,7 @@ Features:
 - Words
 - Underscore
 - Number
-Example format of the generated username: smart_Potato25
+- Example format of the generated username: smart_Potato25
 
 3. Generate password based on user's options.
 - Lowercase letters
@@ -20,4 +20,5 @@ Example format of the generated username: smart_Potato25
 - Symbols and special characters
 
 4. Generate random different things.
-Example: book, chair, car etc.
+- Example: book, chair, car etc.
+
